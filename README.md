@@ -31,9 +31,13 @@ Este guia aborda as etapas para configurar o ambiente necessário para realizar 
 
 ### 5. Instalar Faker Library
 1. No Prompt de Comando, execute:
+   ```bash
     pip install robotframework-faker
-2. Realizar a atualização do setuptools caso necessário:
+   ```
+3. Realizar a atualização do setuptools caso necessário:
+   ```bash
     pip install --upgrade setuptools
+   ```
 
 ### 6. Instalar o ChromeDriver
 1. Acesse a [página do ChromeDriver](https://sites.google.com/chromium.org/driver/).
