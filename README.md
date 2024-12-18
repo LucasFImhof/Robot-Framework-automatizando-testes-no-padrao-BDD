@@ -46,7 +46,7 @@ Este guia aborda as etapas para configurar o ambiente necessário para realizar 
    C:\Windows\System32
    ```
 
-### 7. Instalar o Organo
+### 7. Instalar o Organo (Material utilizado durante os estudos)
 1. Baixe o [projeto Organo](#) e salve-o na pasta desejada.
 2. Extraia o conteúdo do arquivo ZIP e renomeie a pasta para `organo`.
 3. No Prompt de Comando:
