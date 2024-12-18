@@ -31,7 +31,7 @@ Este guia aborda as etapas para configurar o ambiente necessário para realizar 
 
 ### 5. Instalar Faker Library
 1. No Prompt de Comando, execute:
-    pip instalar robotframework-faker
+    pip install robotframework-faker
 2. Realizar a atualização do setuptools caso necessário:
     pip install --upgrade setuptools
 
